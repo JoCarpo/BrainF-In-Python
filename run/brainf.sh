@@ -5,6 +5,6 @@ brain() {
 	if [ $file != "shell" ]; then
 		python brainf.py $file
 	else
-		python shell.py
+		echo There is no shell yet
 	fi
 }
