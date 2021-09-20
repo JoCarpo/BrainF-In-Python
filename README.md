@@ -5,3 +5,5 @@ You can find the original code on GitHub
 https://github.com/fabianishere/brainfuck
 
 Mine obviously isnt as good, I just thought it was a fun idea
+
+I am working on improving, like making an installer in the future, but for now you can just run the run/brainf.sh file
