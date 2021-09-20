@@ -3,7 +3,8 @@
 brain() {
  	local file="${1:-shell}"
 	if [ $file != "shell" ]; then
-		python main.py $file
+		dir=$(readlink -f $file)
+		python main.py $dir
 	else
 		echo There is no shell yet
 	fi
