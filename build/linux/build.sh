@@ -8,6 +8,6 @@ mv src .brainf
 mv brainf.sh .brainf.sh
 echo "source ~/.brainf.sh" >> .bashrc
 
-echo Type 'brain' followed by your file name, to run BrainF***
+echo "Type 'brain' followed by your file name, to run BrainF***"
 
 cd dir
