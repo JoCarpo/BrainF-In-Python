@@ -10,6 +10,7 @@ Mine obviously isnt as good, I just thought it was a fun idea
 ### Linux
 
 To download on Linux, clone the repository. You will need all of the files, so don't delete them.
+If you clicked the download zip button, then you will need to extract the folder before you can continue.
 In the terminal, change directory so that you are in BrainF-In-Python/build/Linux
 > cd BrainF-In-Python/build/Linux
 
