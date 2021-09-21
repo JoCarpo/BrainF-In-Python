@@ -15,4 +15,5 @@ echo "source ~/.brainf.sh" >> .bashrc
 echo "Running language runner"
 
 echo "Type 'brain' followed by your file name, to run BrainF***"
-cd dir
+source ~/.bashrc
+cd $dir
