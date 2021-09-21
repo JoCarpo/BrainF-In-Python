@@ -10,6 +10,7 @@ cd ~/
 
 mv src .brainf
 mv brainf.sh .brainf.sh
+mv .brainf.sh .brainf/
 
 echo "source ~/.brainf.sh" >> .bashrc
 echo "Running language runner"
