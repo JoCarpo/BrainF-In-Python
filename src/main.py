@@ -1,4 +1,4 @@
-from compiler import run, lexer, lstNum
+from interpreter import run, lexer, lstNum
 import sys
 
 code = sys.argv[1]
