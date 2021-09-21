@@ -11,7 +11,7 @@ cd ~/
 mv src .brainf
 mv brainf.sh .brainf.sh
 
-echo "source ~/.brainf.sh" >> .bashrc
+echo "source ~/.brainf.sh" >> .bash_profile
 echo "Running language runner"
 
 echo "Type 'brain' followed by your file name, to run BrainF***"
