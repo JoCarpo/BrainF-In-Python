@@ -14,9 +14,11 @@ In the terminal, change directory so that you are in BrainF-In-Python/build/Linu
 > cd BrainF-In-Python/build/Linux
 
 Then run this command.
-> chmod +x build.sh
-This will allow you torun the file.
+```bash
+chmod +x build.sh
+```
 
+This will allow you to run the file.
 Next you can run the build file
 > ./build.sh
 
