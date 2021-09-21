@@ -1,4 +1,4 @@
-# BrainF-In-Python
+# BrainF In Python
 I remade the BrainF*** Esolang in Python
 
 You can find the original code on [GitHub](https://github.com/fabianishere/brainfuck).
