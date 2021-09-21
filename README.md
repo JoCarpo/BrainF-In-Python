@@ -1,10 +1,24 @@
 # BrainF-In-Python
 I remade the BrainF*** Esolang in Python
 
-You can find the original code on GitHub
-https://github.com/fabianishere/brainfuck
+You can find the original code on [GitHub]
+(https://github.com/fabianishere/brainfuck)
 
 Mine obviously isnt as good, I just thought it was a fun idea
 
-I am working on improving, like making an installer in the future,
-but for now you just have to run the src/main.py file, followed by the file name
+## Installation
+### Linux
+
+To download on Linux, clone the repository. You will need all of the files, so don't delete them.
+In the terminal, change directory so that you are in BrainF-In-Python/build/Linux
+> cd BrainF-In-Python/build/Linux
+
+Then run this command.
+> chmod +x build.sh
+This will allow you torun the file.
+
+Next you can run the build file
+> ./build.sh
+
+Once this has finished, you can delete the repo; Unless you want to use the examples.
+To run the program, type "brain" followed by your file name.
