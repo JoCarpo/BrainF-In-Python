@@ -31,5 +31,7 @@ Next you can run the build file
 ```
 
 Once this has finished, you can delete the repo; Unless you want to use the examples.
+
 To run the program, type "brain" followed by your file name.
-if this does not work, try opening up a new terminal.
+If this does not work, try opening up a new terminal, or running the command ```bash
+source ~/.bashrc```
